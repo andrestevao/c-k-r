@@ -1,3 +1,0 @@
-3spaces:   
-2tabs:		
-2_\n_in_the_whole_file!
